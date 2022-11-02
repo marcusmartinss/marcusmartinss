@@ -1,8 +1,14 @@
 ## Olá, meu nome é Marcus!!
 
-<div><br>
-    <img align="right" height="130rem" src="dog-wink.gif">
+<div>
+    <img align="right" height="150rem" src="dog-wink.gif">
 </div>
+
+- 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
+- 💼 Estou trabalhando com **Gamificação** na **[Orc'estra Gamificação](https://orcestra.com.br/)**.
+- 📚 Atualmente estudando **Estrutura de Dados**, **Engenharia de Requisitos** e **UX/UI**.
+- 📓 Me aprofundando em **React**, **Ruby on Rails**, **Node.js** e Bancos de Dados **NOSQL**.
+- 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar melhor*.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusmartinsxx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -28,12 +34,5 @@
 </div>
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
  -->
