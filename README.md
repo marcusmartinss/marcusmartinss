@@ -1,7 +1,7 @@
 ## Olá, meu nome é Marcus!!
 
 <div>
-    <img align="right" height="150rem" src="dog-wink.gif">
+    <img align="right" height="120rem" src="dog-wink.gif">
 </div>
 
 - 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
