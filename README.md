@@ -11,8 +11,8 @@
 - 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar melhor*.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusmartinsxx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmartinsxx&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusmartinss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmartinss&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
