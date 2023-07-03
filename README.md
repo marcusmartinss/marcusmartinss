@@ -6,6 +6,7 @@
 
 - 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
 - 💼 Estou trabalhando com **Gamificação** na **[Orc'estra Gamificação](https://orcestra.com.br/)**.
+- 🔬 Estou pesquisando sobre **Gamificação de Plataformas de Popularização e Divulgação Científica e Tecnológica no [CEDIS](https://www.cedis.unb.br/in%C3%ADcio)**
 - 📚 Atualmente estudando **Estrutura de Dados**, **Engenharia de Requisitos** e **UX/UI**.
 - 📓 Me aprofundando em **React**, **Ruby on Rails**, **Node.js** e Bancos de Dados **NOSQL**.
 - 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar melhor*.
