@@ -28,6 +28,7 @@
 </div>
 
 <div>
+    <br/>
     <img align="center" alt="Code Wars Badge" src="https://www.codewars.com/users/marcusmartinss/badges/small">
 </div>
 
