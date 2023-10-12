@@ -7,9 +7,9 @@
 - 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
 - 💼 Estou trabalhando com **Gamificação** na **[Orc'estra Gamificação](https://orcestra.com.br/)**.
 - 🔬 Estou pesquisando sobre **Gamificação de Plataformas de Popularização e Divulgação Científica e Tecnológica no [CEDIS](https://www.cedis.unb.br/in%C3%ADcio)**
-- 📚 Atualmente estudando **Estrutura de Dados**, **Engenharia de Requisitos** e **UX/UI**.
-- 📓 Me aprofundando em **React**, **Ruby on Rails**, **Node.js** e Bancos de Dados **NOSQL**.
-- 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar melhor*.
+- 📚 Atualmente estudando **OpenShift** **PostgreSQL**, **Programação Competitiva**.
+- 📓 Me aprofundando em **Docker** e **Red Hat Enterprise Linux**.
+- 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar mais acessível para todos*.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusmartinss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -38,7 +38,3 @@
     <a href = "mailto:vini.mark2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcusmartinss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<!--
-
- -->
