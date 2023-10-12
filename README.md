@@ -7,7 +7,7 @@
 - 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
 - 💼 Estou trabalhando com **Gamificação** na **[Orc'estra Gamificação](https://orcestra.com.br/)**.
 - 🔬 Estou pesquisando sobre **Gamificação de Plataformas de Popularização e Divulgação Científica e Tecnológica no [CEDIS](https://www.cedis.unb.br/in%C3%ADcio)**
-- 📚 Atualmente estudando **OpenShift** **PostgreSQL**, **Programação Competitiva**.
+- 📚 Atualmente estudando **OpenShift**, **PostgreSQL** e **Programação Competitiva**.
 - 📓 Me aprofundando em **Docker** e **Red Hat Enterprise Linux**.
 - 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar mais acessível para todos*.
 
