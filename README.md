@@ -5,10 +5,11 @@
 </div>
 
 - 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
-- 🔬 Estou pesquisando sobre **Gamificação de Plataformas de Popularização e Divulgação Científica e Tecnológica no [CEDIS](https://www.cedis.unb.br/in%C3%ADcio)**
-- 📚 Atualmente estudando **OpenShift**, **PostgreSQL** e **Programação Competitiva**.
-- 📓 Me aprofundando em **Docker** e **Red Hat Enterprise Linux**.
+- 📚 Atualmente estudando **OpenShift**, **Programação Competitiva** e **Rust**.
+- 📓 Me aprofundando em **Sistemas Linux** e **Computação em Nuvem**.
+- 📖 Lendo: **The Art of Computer Programming Vol. 1 - Knuth, Donald E.**
 - 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar mais acessível para todos*.
+- 🔬 Pequisei sobre **Gamificação de Plataformas de Popularização e Divulgação Científica e Tecnológica no [CEDIS](https://cedis.unb.br/)**
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusmartinss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -16,14 +17,18 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-    <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Marcus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Marcus-RedHat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
+    <img align="center" alt="Marcus-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+    <img align="center" alt="Marcus-ArgoCD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
+    <img align="center" alt="Marcus-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+    <img align="center" alt="Marcus-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+        <img align="center" alt="Marcus-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+        <img align="center" alt="Marcus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Marcus-GitHub-Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
+    <img align="center" alt="Marcus-C-Plus-Plus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Marcus-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img align="center" alt="Marcus-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </div>
 
 <div>
@@ -34,6 +39,6 @@
 ##
 
 <div>
-    <a href = "mailto:vini.mark2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcusmartinss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href = "mailto:marcuspaivamartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.linkedin.com/in/marcusmartinss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    -->
 </div>
