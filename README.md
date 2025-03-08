@@ -7,7 +7,6 @@
 - 🖥️ Curso **Engenharia de Software** na [**Universidade de Brasília**](https://www.unb.br/).
 - 📚 Atualmente estudando **OpenShift**, **Programação Competitiva** e **Rust**.
 - 📓 Me aprofundando em **Sistemas Linux** e **Computação em Nuvem**.
-- 📖 Lendo: **The Art of Computer Programming Vol. 1 - Knuth, Donald E.**
 - 🌎 Busco utilizar meu conhecimento para criar projetos que *tornem o mundo um lugar mais acessível para todos*.
 - 🔬 Pequisei sobre **Gamificação de Plataformas de Popularização e Divulgação Científica e Tecnológica no [CEDIS](https://cedis.unb.br/)**
 
